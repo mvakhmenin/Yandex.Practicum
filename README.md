@@ -1,21 +1,15 @@
 
 
-<center><h1>Yandex.Praktikum Data Science Projects</h1></center>
+<center><h1>Проекты Yandex.Praktikum Data Science (учебные)</h1></center>
 <a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
 <p align=center>
-Repository containing portfolio of data science projects completed by me during the training courses at <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a><br>
-Presented in the form of iPython Notebooks and readme markdown files. <br>
-For a more visually pleasant experience for browsing the portfolio, check out <a href="https://akylson.com">akylson.com</a><br>
-<br>
-  <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_certificate_en.pdf"><b>Certificate of completion the course (English version)</b> :mortar_board: </a><br>
-    <a href="https://github.com/akylson/yandex-praktikum-data-science-projects/blob/main/yandex_ds_ru.pdf"><b>Certificate of completion the course (Russian version)</b> :mortar_board: </a>
-</p><br>
+Репозиторий содержит проекты выполненные мной во время прохождения обучения в Yandex.Praktikum на курсе "Специалист по Data Science".<br>
 
 <table width=100% valign=top >
   <tr>
-    <td width=25%>Project</td>
-    <td>Description</td>
-    <td width=20%>Used libraries</td>
+    <td width=25%>Проект</td>
+    <td>Описание</td>
+    <td width=20%>Стек</td>
   </tr>
         <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Steel temperature</a></td>
