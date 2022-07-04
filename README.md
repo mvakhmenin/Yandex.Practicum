@@ -12,9 +12,9 @@
     <td width=20%><b>Стек</b></td>
   </tr>
         <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Steel temperature</a></td>
-    <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
-    <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
+    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B">Временные ряды</a></td>
+    <td>Модель педсказания количества поездок на такси в следующий час</td>
+    <td>Python, Pandas, Numpy, Matplotlib, Statsmodels, gradient boosting (lightgbm), OOP</td>
   </tr>
       <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/15-age_recognition_by_photo">Age recognition by photo</a></td>
