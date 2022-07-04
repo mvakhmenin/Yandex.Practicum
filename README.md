@@ -7,9 +7,9 @@
 
 <table width=100% valign=top >
   <tr>
-    <td width=25%>Проект</td>
-    <td>Описание</td>
-    <td width=20%>Стек</td>
+    <td width=25%><b>Проект</b></td>
+    <td><b>Описание</b></td>
+    <td width=20%><b>Стек</b></td>
   </tr>
         <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Steel temperature</a></td>
