@@ -27,9 +27,9 @@
     <td>Python, Pandas, Matplotlib, Gradient Boosting (CatBoost)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
-    <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
-    <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
+    <td><a href="https://github.com/mvakhmenin/Yandex.Practicum/tree/main/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2">Классификация комментариев пользователей</a></td>
+    <td>Разработка модели, которая будет искать токсичные комментарии клиентов интернет-магазина и отправлять их на модерацию</td>
+    <td>Pandas, Python, PyTorch, BERT (CUDA)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Predicting taxi trips</a></td>
