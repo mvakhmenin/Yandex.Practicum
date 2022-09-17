@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/mvakhmenin/Yandex.Practicum">Финальный проект</a></td>
-    <td>...</td>
-    <td>Python, Pandas, Matplotlib, ...</td>
+    <td>Прогнозирование оттока клиентов телеком-оператора</td>
+    <td>Python, Pandas, Matplotlib, Plotly, Scikit-learn, gradient boosting (lightgbm, CatBoost), optuna</td>
   </tr>
 </table>
